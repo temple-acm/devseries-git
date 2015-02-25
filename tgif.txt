@@ -117,3 +117,4 @@ Do it all again
 
 [Clapping] Whohoo!
 
+No clap
